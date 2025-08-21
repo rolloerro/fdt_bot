@@ -1,0 +1,11 @@
+aiogram==3.4.1
+setuptools==68.0.0
+magic-filter==1.0.12
+aiohttp==3.9.5
+certifi==2024.2.2
+charset-normalizer==3.3.2
+frozenlist==1.4.1
+idna==3.6
+multidict==6.0.5
+yarl==1.9.4
+
